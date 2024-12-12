@@ -11,3 +11,4 @@
 
 # DASHBOARD
 - <a href="https://github.com/yashvi136/excel-project/blob/main/E-Commerce%20Dashboard.xlsx"> View Dashboard </a>
+- <img src="https://github.com/yashvi136/excel-project/blob/main/SALES_DASHBOARD.png"> DASHBOARD </img>
