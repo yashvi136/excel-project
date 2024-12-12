@@ -7,4 +7,7 @@
  performance.
 
 # DATASET
-- <a href="https://github.com/yashvi136/excel-project/blob/main/E-Commerce%20Dashboard.xlsx"> E-COMMERCE SALES DATA </a>
+- <a href="https://github.com/yashvi136/excel-project/blob/main/E-Commerce%20Dashboard.xlsx"> E-Commerce Sales Dataset </a>
+
+# DASHBOARD
+- <a href="https://github.com/yashvi136/excel-project/blob/main/E-Commerce%20Dashboard.xlsx"> View Dashboard </a>
