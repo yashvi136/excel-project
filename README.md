@@ -10,4 +10,4 @@
 - <a href="https://github.com/yashvi136/excel-project/blob/main/E-Commerce%20Dashboard.xlsx"> E-Commerce Sales Dataset </a>
 
 # DASHBOARD
-- <img src="https://github.com/yashvi136/excel-project/blob/main/SALES_DASHBOARD.png"> </img>
+  <img src="https://github.com/yashvi136/excel-project/blob/main/SALES_DASHBOARD.png"> </img>
